@@ -100,3 +100,6 @@ Scrape Products: Sends a request to the /scrape endpoint to start the scraping p
 Check Results: Scraped data is saved to the specified JSON file and notifications are printed to the console.
 
 
+##Output in Console
+
+![img.png](img.png)
